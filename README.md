@@ -7,3 +7,5 @@ goto the minecraft launcher select installations
 then new
 and selcect by version GamerclientV1.2 
 and then just selct GamerclientV1.2 under the tab play and press the play button enjoy.
+# Credits
+Pringle.ccp for inf jump
